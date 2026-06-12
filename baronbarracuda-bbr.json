@@ -1,7 +1,7 @@
 {
-  "name": "BaronBarracuda",
-  "symbol": "BBR",
-  "description": "BaronBarracuda is a meme Jetton on TON. Buy is open, wallet-to-wallet transfers are open, and sell swaps are transparently controlled during launch.",
-  "decimals": "9",
-  "image": "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/baronbarracuda-bbr.png.jpg"
+"name": "ArcticFox",
+"symbol": "AF",
+"description": "ArcticFox is a community token on TON.",
+"decimals": 9,
+"image": "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/arcticfox-af.jpg"
 }
