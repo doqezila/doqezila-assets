@@ -1,0 +1,7 @@
+{
+  "name": "zerobalance",
+  "symbol": "ZD",
+  "description": "zerobalance Jetton on TON",
+  "image": "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/zerobalance-zd-logo.jpg",
+  "decimals": "9"
+}
