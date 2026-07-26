@@ -1,0 +1,7 @@
+{
+  "name": "MemeMeteor",
+  "symbol": "MEMO",
+  "description": "MemeMeteor Jetton on TON",
+  "image": "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/mememeteor-memo-logo.jpg",
+  "decimals": "9"
+}
