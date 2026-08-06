@@ -1,0 +1,7 @@
+{
+  "name": "CentipedeCash",
+  "symbol": "CPC",
+  "description": "CentipedeCash Jetton on TON",
+  "image": "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/centipedecash-cpc-logo.png",
+  "decimals": "9"
+}
