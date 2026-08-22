@@ -1,7 +1,7 @@
 {
-  "name": "Sturdystallion",
-  "symbol": "SSL",
-  "description": "Sturdystallion Jetton on TON",
-  "image": "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/sturdystallion-ssl-logo.jpg",
-  "decimals": "9"
+    "name":  "STURDYSTALLION",
+    "symbol":  "SSL",
+    "description":  "STURDYSTALLION (SSL) on TON",
+    "image":  "https://raw.githubusercontent.com/doqezila/doqezila-assets/main/sturdystallion-ssl-logo.jpg",
+    "decimals":  "9"
 }
